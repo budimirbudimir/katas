@@ -1,0 +1,16 @@
+{
+  "name": "henkel-dx-test",
+  "version": "1.0.0",
+  "description": "Test code for Frontend Developer position at Henkel dx, Budimir Budimir",
+  "main": "index.js",
+  "scripts": {
+    "loc": "node loc.js",
+    "ocr": "node ocr.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Budimir Budimir <budimirbudimir@msn.com>",
+  "license": "ISC",
+  "dependencies": {
+    "os": "^0.1.1"
+  }
+}
