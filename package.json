@@ -2,7 +2,7 @@
   "name": "henkel-dx-test",
   "version": "1.0.0",
   "description": "Test code for Frontend Developer position at Henkel dx, Budimir Budimir",
-  "main": "index.js",
+  "main": "ocr.js",
   "scripts": {
     "loc": "node loc.js",
     "ocr": "node ocr.js",
