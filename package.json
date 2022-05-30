@@ -1,7 +1,7 @@
 {
   "name": "henkel-dx-test",
   "version": "1.0.0",
-  "description": "Test code for Frontend Developer position at Henkel dx, Budimir Budimir",
+  "description": "Code katas for counting lines of code in files and encoding OCR",
   "main": "ocr.js",
   "scripts": {
     "loc": "node loc.js",
